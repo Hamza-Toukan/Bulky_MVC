@@ -26,6 +26,7 @@
     <Folder Include="Areas\Admin\Views\" />
     <Folder Include="Areas\Customer\Controllers\" />
     <Folder Include="Areas\Customer\Views\" />
+    <Folder Include="wwwroot\images\product\" />
   </ItemGroup>
 
 </Project>
